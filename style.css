@@ -1,0 +1,24 @@
+.left {
+ 
+    float: left;
+    width: 50%;
+    height: 100%;
+
+}
+
+
+
+.right {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: rgba(131, 37, 37, 0.664);
+
+
+}
+
+.wolf {
+margin-left: 10%;
+margin-top: 20%;
+
+}
